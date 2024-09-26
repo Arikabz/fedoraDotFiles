@@ -147,3 +147,4 @@ PATH=$PATH:$HOME/custom:$HOME/.local/bin
 sm=$HOME/Coding/soymas/soymas-app/
 . "$HOME/.cargo/env"
 smd=$HOME/Coding/soymas/soymas-docs/
+#Work vars after here
