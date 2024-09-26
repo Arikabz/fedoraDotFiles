@@ -115,6 +115,8 @@ plugins=(
 
 source "$OSH"/oh-my-bash.sh
 
+bind '"\C-f": "\C-e\C-utmux-sessionizer\C-m"'
+
 # User configuration
 # export MANPATH="/usr/local/man:$MANPATH"
 
