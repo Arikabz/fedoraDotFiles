@@ -142,7 +142,8 @@ source "$OSH"/oh-my-bash.sh
 # Example aliases
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
-PATH=$PATH:$HOME/custom
+# alias vi='nvim'
+PATH=$PATH:$HOME/custom:$HOME/.local/bin
 sm=$HOME/Coding/soymas/soymas-app/
+. "$HOME/.cargo/env"
 smd=$HOME/Coding/soymas/soymas-docs/
-sb=$HOME/sb/
